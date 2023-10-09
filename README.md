@@ -35,4 +35,4 @@ A Software Developer who loves to convert thoughts into code.
 
  Hacking with Swift Certificate 
 :-------------------------:|
-<img src="./images/gagan-certificate.jpg" width="250" height="195"> |
+<img src="./Certs/gagan-certificate.jpg" width="250" height="195"> |
