@@ -35,4 +35,4 @@ A Software Developer who loves to convert thoughts into code.
 
  Hacking with Swift Certificate | SwiftUI Udemy Certificate
 :-------------------------:|:-------------------------:|
-<img src="./Certs/gagan-certificate.jpg" width="250" height="195"> | <img src="./Certs/SwiftUI-Certificate.pdf" width="250" height="195"> 
+<img src="./Certs/gagan-certificate.jpg" width="250" height="195"> | <img src="./Certs/SwiftUI-Certificate.jpg" width="250" height="195"> 
