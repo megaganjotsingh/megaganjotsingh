@@ -27,7 +27,7 @@ A Software Developer who loves to convert thoughts into code.
 
 ## Reach me via 👇🏻
 
-[![Linkedin](https://imgur.com/a/RCfO6CR)](https://in.linkedin.com/in/gaganjot-singh-40b40b100)
+[![Linkedin](https://ibb.co/Tk9g1Xb)](https://in.linkedin.com/in/gaganjot-singh-40b40b100)
 
 
 
