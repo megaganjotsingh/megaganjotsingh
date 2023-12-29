@@ -37,5 +37,6 @@ A Software Developer who loves to convert thoughts into code.
 :-------------------------:|:-------------------------:|
 <img src="./Certs/gagan-certificate.jpg" width="250" height="195"> | <img src="./Certs/SwiftUI-Certificate.jpg" width="250" height="195"> 
 
+Diving Deep into Swift Certificate
 :-------------------------:
 <img src="./Certs/DivingDeepIntoSwit_Certificate.pdf" width="250" height="195">
