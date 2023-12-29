@@ -39,4 +39,4 @@ A Software Developer who loves to convert thoughts into code.
 
 Diving Deep into Swift Certificate
 :-------------------------:
-<img src="./Certs/DivingDeepIntoSwit_Certificate.pdf" width="250" height="195">
+<img src="./Certs/DivingDeepIntoSwit_Certificate.jpg" width="250" height="195">
