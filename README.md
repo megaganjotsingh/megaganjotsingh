@@ -1,12 +1,11 @@
 
 
 ### Hi there, I'm Gaganjot Singh 👋
+A software developer passionate about bringing ideas to life through coding.
 </a>
 
 <br />
 
-
-A Software Developer who loves to convert thoughts into code.
 
 
 * 📱  Let's talk about your next App. Contact me [here](https://in.linkedin.com/in/gaganjot-singh-40b40b100)
