@@ -6,17 +6,15 @@ A software developer passionate about bringing ideas to life through coding.
 
 <br />
 
+* 📱 Let's talk about your upcoming App. Contact me [here](https://in.linkedin.com/in/gaganjot-singh-40b40b100)
 
+* 💬 Curious about something? Feel free to ask me [here](https://github.com/megaganjotsingh/megaganjotsingh/issues)
 
-* 📱  Let's talk about your next App. Contact me [here](https://in.linkedin.com/in/gaganjot-singh-40b40b100)
-
-* 💬 Ask me about anything [here](https://github.com/megaganjotsingh/megaganjotsingh/issues)
-
-* ✨ UI / UX Enthusiast
+* ✨ Deeply passionate about crafting intuitive UI / UX experiences.
 
 * 📖 Open-Source Contributor
 
-* 💻 One line of code at a time
+* 💻 Making a difference, One line of code at a time
 
 * ♥️ Exploring new places
 
@@ -24,7 +22,7 @@ A software developer passionate about bringing ideas to life through coding.
 
 
 
-## Reach me via 👇🏻
+## Reach me 👇🏻
 
 [![Linkedin](https://i.postimg.cc/BvWKLcLS/v-Gjs-QPt-3.png)](https://in.linkedin.com/in/gaganjot-singh-40b40b100)
 
