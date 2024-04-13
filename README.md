@@ -34,4 +34,4 @@ A software developer passionate about bringing ideas to life through coding.
 
 Diving Deep into Swift Certificate | Time Complexity Wizard Certificate
 :-------------------------:|:-------------------------:|
-<img src="./Certs/DivingDeepIntoSwit_Certificate.jpg" width="250" height="195"> | <img srv="./Certs/time_complexity_wizard.jpeg" width="250" height="195">
+<img src="./Certs/DivingDeepIntoSwit_Certificate.jpg" width="250" height="195"> | <img src="./Certs/time_complexity_wizard.jpeg" width="250" height="195">
