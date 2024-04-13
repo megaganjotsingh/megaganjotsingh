@@ -33,5 +33,5 @@ A software developer passionate about bringing ideas to life through coding.
 <img src="./Certs/gagan-certificate.jpg" width="250" height="195"> | <img src="./Certs/SwiftUI-Certificate.jpg" width="250" height="195"> 
 
 Diving Deep into Swift Certificate | Time Complexity Wizard Certificate
-:-------------------------:
-<img src="./Certs/DivingDeepIntoSwit_Certificate.jpg" width="250" height="195"> | <img srv="./Certs/.jpg" width="250" height="195">
+:-------------------------:|:-------------------------:|
+<img src="./Certs/DivingDeepIntoSwit_Certificate.jpg" width="250" height="195"> | <img srv="./Certs/time_complexity_wizard.jpeg" width="250" height="195">
