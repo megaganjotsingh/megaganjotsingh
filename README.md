@@ -19,13 +19,6 @@ A software developer passionate about bringing ideas to life through coding.
 * 💁🏻I share my Insights, Tricks, and Tips on iOS development on my LinkedIn.
 
 
-
-## Reach me 👇🏻
-
-[![Linkedin](https://i.postimg.cc/BvWKLcLS/v-Gjs-QPt-3.png)](https://in.linkedin.com/in/gaganjot-singh-40b40b100)
-
-
-
 ### My iOS Certificates 🎖
 
  Hacking with Swift Certificate | SwiftUI Udemy Certificate
