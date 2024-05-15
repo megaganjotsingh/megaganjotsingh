@@ -14,7 +14,7 @@ A software developer passionate about bringing ideas to life through coding.
 
 * ♥️ Exploring new places
 
-* 💁🏻I share my Insights, Tricks, and Tips on iOS development on my LinkedIn.
+* 💁🏻I share my Insights, Tricks, and Tips on app development on my LinkedIn.
 
 
 ### My iOS Certificates 🎖
