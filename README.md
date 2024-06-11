@@ -24,7 +24,7 @@ A software developer passionate about bringing ideas to life through coding.
 <!-- Certificates  -->
 
 <h2 align="center">
-        <samp> My iOS Certificates 🎖
+        <samp> 🎖 My iOS Certificates 
         </samp>
 </h2>
 
