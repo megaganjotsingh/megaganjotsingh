@@ -36,6 +36,10 @@ Diving Deep into Swift Certificate | Time Complexity Wizard Certificate
 :-------------------------:|:-------------------------:|
 <img src="./Certs/DivingDeepIntoSwit_Certificate.jpg" width="250" height="195"> | <img src="./Certs/time_complexity_wizard.jpeg" width="250" height="195">
 
+Problem Solving Basic Certificate |
+:-------------------------:|
+<img src="./Certs/problem_solving_basic certificate_page-0001.jpg" width="250" height="195"> |
+
  <!-- Tech Stack   -->
  
 <h2 align="center">
