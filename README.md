@@ -35,6 +35,7 @@ A software developer passionate about bringing ideas to life through coding.
         </samp>
 </h2>
 
+<div align=center>
  Hacking with Swift Certificate | SwiftUI Udemy Certificate
 :-------------------------:|:-------------------------:|
 <img src="./Certs/gagan-certificate.jpg" width="250" height="195"> | <img src="./Certs/SwiftUI-Certificate.jpg" width="250" height="195"> 
@@ -46,6 +47,8 @@ Diving Deep into Swift Certificate | Time Complexity Wizard Certificate
 Problem Solving Basic Certificate |
 :-------------------------:|
 <img src="./Certs/problem_solving_basic certificate_page-0001.jpg" width="250" height="195"> |
+
+</div>
 
  <!-- Tech Stack   -->
  
