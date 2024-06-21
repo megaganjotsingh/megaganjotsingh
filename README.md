@@ -21,6 +21,13 @@ A software developer passionate about bringing ideas to life through coding.
 
 * 💁🏻I share my Insights, Tricks, and Tips on app development on my [LinkedIn](https://medium.com/@megaganjotsingh).
 
+<!----- Trophies  -->
+<div align=center>
+
+## 👑Trophy👑
+<a href=""><img src = "https://github-profile-trophy.vercel.app/?username=megaganjotsingh&row=2&column=3&theme=onedark"></a>
+</div>
+
 <!-- Certificates  -->
 
 <h2 align="center">
