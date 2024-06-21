@@ -24,7 +24,7 @@ A software developer passionate about bringing ideas to life through coding.
 <!----- Trophies  -->
 <div align=center>
 
-## 👑Trophy👑
+## 👑 Trophy
 <a href=""><img src = "https://github-profile-trophy.vercel.app/?username=megaganjotsingh&row=2&column=3&theme=onedark"></a>
 </div>
 
