@@ -74,3 +74,10 @@ Problem Solving Basic Certificate |
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
 ![QuickType-JSON Formatter](https://img.shields.io/badge/-QuickType-000000?logo=Vercel&style=for-the-badge&logoColor=white)
+
+<h2 align="center">
+        <samp> 📈 Stats
+        </samp>
+</h2>
+
+<img src="https://komarev.com/ghpvc/?username=gurjnderSingh&style=flat-square&color=blue" alt=""/>
