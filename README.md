@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h1 align="center">
         <samp><img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="30px"> Hi, I'm
-                <b><a target="_blank" href="https://megaganjotsingh.github.io/">Gaganjot Singh</a></b>
+                <b><a target="_blank" href="https://megaganjotsingh.netlify.app/">Gaganjot Singh</a></b>
                  👨‍💻
         </samp>
 </h1>
