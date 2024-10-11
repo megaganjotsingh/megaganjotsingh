@@ -19,7 +19,7 @@ A software developer passionate about bringing ideas to life through coding.
 
 * ♥️ Exploring new places
 
-* 💁🏻I share my Insights, Tricks, and Tips on app development on my [LinkedIn](https://medium.com/@megaganjotsingh).
+* 💁🏻I share my Insights, Tricks, and Tips on app development on [Medium](https://medium.com/@megaganjotsingh).
 
 <!----- Trophies  -->
 <div align=center>
